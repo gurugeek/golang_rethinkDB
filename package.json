@@ -1,0 +1,30 @@
+{
+  "name": "golang_rethinkdb",
+  "version": "1.0.0",
+  "description": "This is a tutorial website from udemy for golang with reactjs and rethinkdb",
+  "main": "application.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xDarkicex/golang_rethinkDB.git"
+  },
+  "keywords": [
+    "reactjs",
+    "golang",
+    "rethinkdb"
+  ],
+  "author": "Gentry Rolofson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xDarkicex/golang_rethinkDB/issues"
+  },
+  "homepage": "https://github.com/xDarkicex/golang_rethinkDB#readme",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "react": "^15.3.2",
+    "webpack": "^1.13.2"
+  }
+}
